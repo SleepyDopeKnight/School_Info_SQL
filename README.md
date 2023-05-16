@@ -1,4 +1,4 @@
-# Info21 v1.0
+# School_Info
 
 Data analysis and statistics for School 21.
 
